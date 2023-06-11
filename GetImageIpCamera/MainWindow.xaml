@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Система наблюдения" Height="450" Width="800">
     <Grid>
         <Button x:Name="stGetImgButton" Content="Начать получать изображения с IP-камеры" Margin="0,7,386,379" FontSize="17" Click="StGetImgButton_Click" Width="NaN"/>
         <Border Margin="161,60,18,12" BorderBrush="Black" BorderThickness="1">
